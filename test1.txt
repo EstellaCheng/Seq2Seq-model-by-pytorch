@@ -1,0 +1,624 @@
+Excuse me .	对不起 。
+Feel this .	来 感受一下 这个 。
+Follow me .	请 跟我来 。
+Follow us .	请 跟着 我们 。
+Good luck .	祝你好运 。
+Grab that .	抓住 那个 。
+Grab this .	抓住 这个 。
+Hands off .	手举 起来 。
+He's a DJ .	他 是 一个   DJ   。
+He's lazy .	他 很 懒 。
+Hold fire .	停火 。
+Hold this .	我住 这个 。
+How awful !	太 可怕 了 。
+I am cold .	我 冷 。
+I am okay .	我 沒事 。
+I am sick .	我 生病 了 。
+I get you .	我 了解 你 。
+I hope so .	我 希望 如此 。
+I laughed .	我 笑 了 。
+I promise .	我 向 你 保证 。
+I saw Tom .	我 看見 湯姆 了 。
+I'll swim .	我要 游泳 。
+I'm a man .	我 是 个 男人 。
+I'm right .	我 是 對 的 。
+I'm sorry .	对不起 。
+I'm sorry .	我 很 抱歉 。
+I'm young .	我 還年 輕 。
+Is it far ?	遠 嗎 ？
+It snowed .	下雪 了 。
+It's 3:30 .	3 点半 了 。
+It's cold .	天 很 冷 。
+It's free .	它 是 免費 的 。
+It's late .	很晚 了 。
+It's true .	這是 真的 。
+Let me in .	让 我 进去 。
+Lie still .	躺 着 不动 。
+Look back !	回头 看 ！
+Move over .	腾 一下 地方 。
+Of course !	當然 !
+Of course .	當然 。
+Of course .	当然 了 。
+Oh please !	噢 拜托 了 ！
+Open fire !	开火 ！
+Read this .	念 这个 。
+See above .	参见 上文 。
+She cried .	她 哭 了 。
+She tried .	她 试过 了 。
+She walks .	她 在 行走 。
+Sit tight .	耐心 等 着 。
+Slow down .	慢一點 。
+Stay calm .	保持 冷靜 。
+Stay down !	趴着 ！
+Stop that !	住手 。
+Take care !	照顾 好 自己 。
+Take care .	照顾 好 自己 。
+Tom swims .	Tom 游泳 。
+Tom tried .	湯姆累 了 。
+Tom waved .	汤姆 挥手 了 。
+Tom'll go .	湯姆要 走 。
+Turn left .	向左转 。
+Wait here .	在 这 等 着 。
+Well done !	做得好 ！
+Who cares ?	爱 谁 谁 。
+Wonderful !	很棒 ！
+You idiot !	蠢货 ！
+All aboard !	请 上船 ！
+Am I wrong ?	我錯 了 嗎 ？
+Birds sing .	鳥兒 歌唱 。
+Can I help ?	我 可以 幫忙 嗎 ?
+Come along .	快点 。
+Definitely !	必须 的 ！
+Don't move !	别动 ！
+Don't move .	不要 动 。
+Fill it up .	把 它 填滿 。
+Follow him .	跟 著 他 走 。
+God exists .	上帝 存在 。
+Good night .	晚安 。
+He gave in .	他 让步 了 .
+He is mean .	他 很 凶 。
+He is poor .	他 很穷 。
+He is tall .	他 高 。
+Hello, Tom .	你好 ， 汤姆 。
+Hey, relax .	嘿 ， 放松 点 。
+How lovely !	多 可爱 啊 ！
+Hurry home .	赶快 回家 。
+I am a man .	我 是 个 男人 。
+I am short .	我 个头 矮 。
+I can cook .	我会 做饭 。
+I can swim .	我會 游泳 。
+I eat here .	我 在 這裡 吃 。
+I envy her .	我 嫉妒 她 。
+I envy him .	我 羡慕 他 。
+I hate you .	我 恨 你 。
+I know Tom .	我 认识 汤姆 。
+I know him .	我 認識 他 。
+I like tea .	我 喜欢 茶 。
+I like you .	我 喜歡 你 。
+I like you .	我 喜欢 你 。
+I love her .	我 愛 她 。
+I love you .	我 爱 您 。
+I miss you .	我 想念 你 。
+I need you .	我 需要 你 。
+I think so .	我 想 是 這樣 的 。
+I use this .	我 使用 这个 。
+I'll do it .	我會 做 的 。
+I'm a hero .	我 是 個 英雄 。
+I'm humble .	我 是 谦虚 的 。
+I'm single .	我 单身 。
+I'm sleepy .	我困 了 。
+I'm so fat .	我 好 胖 哦 。
+Ignore Tom .	别理 汤姆 。
+Is it love ?	那 是 愛嗎 ？
+It's great .	真是 太好了 。
+It's night .	是 晚上 了 。
+Just relax .	放松 点 吧 。
+Keep quiet !	保持 安静 ！
+Let him in .	让 他 进来 。
+Let me die .	让 我 去 死 。
+Let me see .	让 我 想一想 。
+Let's walk .	我们 走走 吧 。
+Look there .	看 那里 。
+No comment .	禁止 评论 。
+No problem !	没 问题 ！
+No problem .	没关系 。
+No problem .	没 问题 。
+Oh, really ?	噢 ， 真的 嗎 ?
+Once again .	再 一次 。
+She smiled .	她 笑 了 。
+Stand back !	往后 站 ！
+Stay sharp .	保持警惕 。
+Stay there .	留在 这里 别动 。
+Step aside .	让开 。
+Study hard .	好好学习 。
+That hurts .	真疼 。
+Time flies .	時光 飛逝 。
+Tom is shy .	汤姆 害羞 。
+Tom smiled .	汤姆 笑 了 。
+Tom yawned .	汤姆 打哈欠 了 。
+Turn right .	向右转 。
+We laughed .	我们 笑 了 。
+We lost it .	我们 失去 了 它 。
+What is it ?	這是 什麼 啊 ？
+What's new ?	有 什么 新鲜事 吗 ？
+Where am I ?	我 在 哪裡 ？
+Where am I ?	這是 什麼 地方 ?
+Who are we ?	我們 是 誰 ？
+Wood burns .	木材 燃燒 。
+Are we done ?	我们 完成 了 吗 ？
+Are you Tom ?	你 是 汤姆 吗 ？
+Are you mad ?	您 生气 了 吗 ？
+Are you mad ?	你 生气 了 吗 ？
+Are you sad ?	你 傷心 嗎 ？
+Be friendly .	友好 点 。
+Break it up !	停手 ！
+Can you see ?	你 能 看 吗 ？
+Count me in .	算 我 一个 .
+Do as I say .	按 我 說 的 做 。
+Don't leave !	別 走 ！
+Don't panic !	不要 恐慌 ！
+Don't shout .	不许 大叫 。
+Don't worry .	別 擔心 。
+Don't worry .	别 擔心 。
+Get serious .	认真 点 。
+He is alone .	他 獨自 一人 。
+He is drunk .	他 醉 了 。
+He's strong .	他 很 強壯 。
+Here we are !	我們 到 了 ！
+Here, catch !	这里 ， 快 抓住 。
+How are you ?	你們 好 嗎 ？
+How are you ?	你好 嗎 ？
+How curious !	多怪 啊 ！
+How strange !	真 奇怪 。
+I am coming .	我來 了 。
+I buy tapes .	我 買 磁帶 。
+I can't say .	我 不能 说 。
+I don't lie .	我 不 說 謊 。
+I eat bread .	我 吃 面包 。
+I feel cold .	我 觉得 冷 。
+I feel fine .	我 感觉 很 好 。
+I feel weak .	我 感到 虚弱 。
+I have time .	我 有 时间 。
+I heard you .	我 聽 你 的 。
+I like fish .	我 喜欢 鱼 。
+I like jazz .	我 喜歡 爵士 樂 。
+I live here .	我 住 在 這 。
+I need glue .	我 需要 胶水 。
+I overslept .	我 睡 过头 了 。
+I said that .	我 是 那樣 說 的 。
+I smell gas .	我聞 到 瓦斯 味 。
+I trust him .	我 信任 他 。
+I trust you .	我 信任 你 。
+I want more .	我 想要 更 多 。
+I was wrong .	我 搞错 了 。
+I will obey .	我会 听从 指示 。
+I will wait .	我會 等 。
+I work here .	我 在 這裡 工作 。
+I'll attend .	我會 參加 。
+I'll get in .	我會 進去 。
+I'm 17, too .	我 也 是 17 岁 。
+I'm a loser .	我 是 個 不成器 的 人 。
+I'm at home .	我 在家 。
+I'm curious .	我 很 好奇 。
+I'm married .	我 结婚 了 。
+I'm married .	我 已婚 。
+I'm reading .	我 在 读书 。
+I'm serious .	我 是 認 真的 。
+I'm thirsty .	我渴 了 。
+Is Tom well ?	汤姆 还好 吧 ？
+Is it yours ?	这 是 你 的 吗 ？
+It can't be !	这 不 可能 ！
+It can't be !	不 可能 ！
+It's my job .	這是 我份 內 的 事 。
+Just say no .	只要 說 不 。
+Keep trying .	继续 努力 。
+Let me know .	讓 我 知道 。
+Let's begin .	讓 我們 開始 吧 。
+Let's leave .	走 吧 。
+Let's start !	讓 我們 開始 吧 。
+Life is fun .	人生 是 有趣 的 。
+Look around .	四处 看看 。
+Lunch is on .	午餐 送到 了 。
+Many thanks .	非常感谢 ！
+Money talks .	金钱万能 。
+Nice timing .	好时机 。
+No one came .	没有 人来 了 。
+OK. I agree .	好 。 我 同意 。
+Please come .	请来 吧 。
+Please sing .	请 唱歌 。
+Release him .	放开 他 。
+She hit him .	她 打 了 他 。
+Stand aside .	一边 站 着 。
+Step inside .	进来 。
+That's life .	這 就是 生活 。
+That's life .	人生 就是 如此 。
+That's true .	這是 真的 。
+They hugged .	他们 拥抱 。
+They kissed .	他们 亲吻 了 。
+This is ice .	這是 冰塊 。
+Tom blushed .	汤姆 脸红 了 。
+Tom frowned .	湯姆皺 著眉頭 。
+Tom got fat .	汤姆 变胖 了 。
+Tom saw you .	湯姆 看見 你 了 。
+Tom'll wait .	湯姆會 等 。
+Tom's wrong .	湯姆錯 了 。
+Turn around .	转过 来 。
+Was I wrong ?	我错 了 吗 ？
+We are boys .	我們 是 男孩 。
+We are late .	我們 遲到 了 。
+We both won .	我們 都 贏了 。
+We can rest .	我们 可以 休息 。
+We know him .	我們 認識 他 。
+We love Tom .	我们 爱 汤姆 。
+We want Tom .	我们 想要 汤姆 。
+What a pity !	太 可惜 了 ！
+What a pity !	多 遗憾 啊 ！
+What is new ?	有 什么 新鲜事 吗 ？
+What's that ?	那 是 什么 ？
+What's this ?	這是 什麼 啊 ？
+What's this ?	那 是 什么 ？
+Who are you ?	你 是 誰 ？
+Who drew it ?	誰畫 的 ？
+Who is that ?	那 是 谁 ？
+Whose is it ?	这 是 谁 的 ？
+Wood floats .	木头 会 漂浮 。
+Work slowly .	干活 慢点 。
+You're sick !	你 有 病 ！
+Anything new ?	有 什么 新鲜事 吗 ？
+Are you busy ?	你 忙 嗎 ？
+Are you lost ?	您 迷路 了 吗 ？
+Are you lost ?	你 迷路 了 吗 ？
+Are you sure ?	你 确定 吗 ？
+Be realistic !	现实 点 ！
+Bring him in .	带 他 进来 。
+Call Tom now .	现在 给 汤姆 打电话 。
+Can we do it ?	我们 能 做到 吗 ？
+Can you come ?	你 能 來 嗎 ？
+Can you read ?	你 能 閱讀 嗎 ？
+Can you swim ?	你 會 游泳 嗎 ?
+Did you call ?	你 打過 電話 了 嗎 ？
+Do you smoke ?	你 吸烟 吗 ?
+Do your best .	盡力 而 為 。
+Don't be shy .	不要 害羞 。
+Don't bother .	不用 麻烦 了 。
+Don't bug me .	别来 烦 我 。
+Drive safely .	安全 地 駕駛 。
+Drive slowly .	开车 慢点 。
+Ghosts exist .	鬼魂 是 存在 的 。
+Give it back .	还 回去
+Good evening .	晚上 好 。
+Good evening .	晚上 好 ！
+Good morning .	早上好 ！
+He got angry .	他 生气 了 。
+He likes tea .	他 喜歡 茶 。
+He loves her .	他 愛 她 。
+He was brave .	他 很 勇敢 。
+How annoying !	真 烦人 。
+How dare you !	你 敢 ！
+How horrible !	真糟糕 ！
+I admire you .	我 欣赏 你 。
+I almost won .	我 几乎 赢 了 。
+I am at home .	我 在家 。
+I am curious .	我 很 好奇 。
+I am married .	我 结婚 了 。
+I am praying .	我 在 祈禱 。
+I am thirsty .	我渴 了 。
+I ate caviar .	我 吃 了 魚子 醬 。
+I called Tom .	我給 湯姆 打 了 電話 。
+I don't care .	我 无所谓 。
+I have a car .	我 有 一辆车 。
+I have a dog .	我 有 一条 狗 。
+I have a map .	我 有 一張 地圖 。
+I like these .	我 喜欢 这些 。
+I love music .	我 爱 音乐 。
+I missed you .	我 想 你 。
+I see a book .	我 看到 一本 書 。
+I understand .	我 明白 了 。
+I want a dog .	我 想要 一 隻 狗 。
+I'll sue you .	我 要告 你 。
+I'm all ears .	我 洗耳 恭聽 。
+I'm free now .	我 现在 有空 了 。
+I'm innocent .	我 是 清白 的 。
+I'm new here .	我 是 新來 的 。
+I'm not sure .	我 不 确定 。
+I'm pregnant .	我 怀孕 了 。
+I'm so happy .	我 好 高興 。
+I'm so tired .	我 好 累 。
+I'm starving !	我 饿死 了 ！
+I'm starving !	我 餓 死 了 ！
+I'm the best .	我 是 最好 的 。
+I'm thrilled .	我 激動 不已 。
+I've decided .	我 決定 了 。
+Is that love ?	那 是 愛嗎 ？
+Is that true ?	真的 ？
+It's amazing .	太 神奇 了 。
+It's obvious .	它 是 明顯 的 。
+It's raining .	下雨 了 。
+It's raining .	在 下雨 。
+It's snowing .	正在 下雪 。
+It's so hard .	太难 了 。
+It's too big .	它 太大 了 。
+Keep looking .	繼續 看 ！
+Keep reading .	继续 看 。
+Keep working .	繼續 工作 ！
+Let me think .	讓 我 想一想 。
+Let's go now .	我们 现在 去 吧 。
+Life goes on .	人生 會繼續 。
+Mary came in .	瑪麗 進來 了 。
+Mary is tall .	瑪麗 很 高 。
+May I go now ?	我 现在 能 去 了 吗 ？
+Move quietly .	轻轻地 移动 。
+My eyes hurt .	我 的 眼睛 痛 。
+No one knows .	沒 有人 知道 。
+Nobody asked .	没人 问过 。
+Open the box .	打開 箱子 。
+Please hurry .	请 抓紧时间 。
+Please leave .	請 你 離開 。
+See you soon !	一会儿 见 ！
+See you then .	到 時候 見 。
+Shame on you !	你 真 丢脸 ！
+Shame on you .	你 真 丢脸 ！
+She is quiet .	她 很 安静 。
+She is upset .	她 心情 不好 。
+She may come .	她 可以 來 。
+She may come .	她 也 許來 。
+Someone came .	有人 来 了 。
+Stop gawking .	别 再 傻 看着 。
+Stop reading .	别 再念 了 。
+Stop staring .	别 再 盯 着 了 。
+Stop talking .	不要 说话 了 。
+Stop whining .	别 再 埋怨 了 。
+Stop yelling !	别 再 喊叫 了 ！
+Sweet dreams !	祝 你好 梦 。
+Take it easy .	放 輕 鬆 。
+Take it easy .	別緊 張 。
+Take me home .	带 我 回家 。
+Tell us more .	告訴 我們 多 一點 。
+That is mine .	那 是 我 的 。
+That's crazy .	那 是 瘋狂 的 。
+That's great .	那 真是 太好了 。
+That's right .	对 ！
+They refused .	他們 拒絕 了 。
+This is mine .	这 是 我 的 。
+This is true .	這是 真的 。
+Tom followed .	汤姆 跟着 。
+Tom is clean .	湯姆 是 干净 的 。
+Tom is happy .	湯姆高興 。
+Tom knows me .	Tom 認識 我 。
+Tom sat down .	汤姆 坐下 了 。
+Tom told him .	汤姆 告诉 了 他 。
+Tom was full .	汤姆 饱 了 。
+Tom, wake up .	汤姆 ， 快 起来 ！
+Try it again .	再試 一次 。
+Unbelievable !	難以 置信 !
+Unbelievable !	难以置信 ！
+Vote for Tom .	投票 給湯姆 。
+Wait and see .	走著 瞧
+We are happy .	我們 很快 樂 。
+We can begin .	我們 能 開始 。
+We need more .	我們 需要 更 多 。
+We succeeded .	我们 成功 了 。
+We surrender .	我們 投降 。
+We're hiding .	我们 在 藏 着 。
+Welcome back .	欢迎 回来 。
+What is love ?	愛是 什麼 ？
+What is that ?	那 是 什么 ？
+What is this ?	這是 什麼 啊 ？
+Who built it ?	这 是 谁 建 的 ？
+Who was here ?	谁 来 了 这里 ？
+Years passed .	多少 年 过去 了 。
+Anything else ?	还有 别的 吗 ？
+Are you angry ?	您 生气 了 吗 ？
+Are you angry ?	你 生气 了 吗 ？
+Are you happy ?	你 快樂 嗎 ？
+Are you ready ?	您 准备 好了吗 ？
+Are you ready ?	你们 准备 好了吗 ？
+Are you ready ?	你 准备 好了吗 ？
+Are you tired ?	你 累 了 嗎 ?
+Bring the key .	帶 鑰匙 來 。
+Call security !	叫 保安 来 ！
+Can you skate ?	你 会 溜冰 吗 ？
+Check, please .	請 結帳 。
+Don't give up !	不要 放棄 !
+Draw a circle .	画 一个圈 。
+Flowers bloom .	鮮花 盛開 。
+He can't swim .	他 不會 游泳 。
+He is a thief .	这是 一个 小偷 。
+He is at home .	他 在家 裡 。
+He is my type !	他 是 我 的 菜 !
+He is no fool .	他 不是 傻子 。
+He is no fool .	他 没 疯 。
+He isn't home .	他 不 在家 。
+He lied to us .	他 欺騙 了 我們 。
+He sells cars .	他 賣 車子 。
+He shot at me .	他 槍擊 了 我 。
+He tries hard .	他 努力 地嘗試 。
+He wants more .	他 想要 更 多 。
+He's not home .	他 不 在家 。
+How about you ?	你 怎麼樣 ？
+How about you ?	那 你 呢 ?
+How about you ?	你們 呢 ？
+How about you ?	您 呢 ？
+How beautiful !	多美 啊 ！
+I am divorced .	我 离婚 了 。
+I am very sad .	我 很 难过 。
+I approved it .	我 同意 它 。
+I believe you .	我 相信 你 。
+I believe you .	我 信过 你 。
+I can see Tom .	我 看得见 汤姆 。
+I can't do it .	我無法 做到 這一點 。
+I despise you .	我 鄙视 你 。
+I did my best .	我 做得好 到 不能 再 好 了 。
+I did see him .	我 确实 看见 他 了 。
+I didn't pass .	我 没 通过 。
+I feel lonely .	我 觉得 很 孤独 。
+Did you have a good time on your trip to London ?	你 在 倫敦 玩 得 開心 嗎 ？
+Did you have any difficulty in finding my house ?	你 找 我 的 房子 有 困難 嗎 ？
+Do you know if my father is still in the office ?	你 知道 我 父親 是否 還在 辦 公室 嗎 ？
+Do you think you could make a little less noise ?	你 觉得 你 能少 发点 噪音 吗 ？
+Don't you think it's strange that he's not here ?	他 不 在 这儿 你 不 觉得 这 很 奇怪 吗 ？
+English is a language spoken all over the world .	英語 是 一種 全世界 通用 的 語言 。
+Even with all his wealth and fame, he's unhappy .	尽管 有 金钱 和 名誉 ， 他 还是 不 幸福 。
+Every time I went to his place, he was studying .	每次 我 去 他 住 處 ， 他 都 在 讀書 。
+Hard work and dedication will bring you success .	努力 工作 和 敬业精神 使 你 成功 。
+Having met him before, I recognized him at once .	因為 以前 見過 他 ,   所以 我 立刻 就 認出 他 來 。
+He came to my house on the pretext of seeing me .	他 打着 见 我 的 幌子 来 了 我家 。
+He hasn't come yet. He must have missed the bus .	他 还 没来 。 他 肯定 错过 公交车 了 。
+He is on goods terms with all of his classmates .	他 和 他 所有 的 同学 相处 融洽 。
+He is very influential in the world of medicine .	他 在 医学界 有 很大 的 影响力 。
+He makes it a rule to take a walk every morning .	他 给 自己 定下 每天 早上 散步 的 规矩 。
+He said he was tired, so he would go home early .	他 说 他 累 了 ， 所以 他 想 早点 回家 。
+He stressed the convenient aspects of city life .	他 强调 都市生活 的 便利 方面 。
+He was the strongest candidate for the position .	他 是 那个 职位 最有 希望 的 候选人 。
+He wishes he had gone to the theater last night .	昨晚 他 希望 他 去 了 剧场 。
+His mother sat up all night waiting for her son .	他 的 妈妈 坐 了 一整夜 ， 等 她 的 儿子 。
+How long do you plan on staying in this country ?	你 打算 在 这个 国家 待 多久 ？
+How long does it take to go to Okinawa by plane ?	坐飛機 去 沖 繩要 花多長 時間 ？
+How long would it take to swim across the river ?	游过 这条 河要 多久 ？
+I always have two cups of coffee in the morning .	我 早晨 总是 喝 两杯 咖啡 。
+I am used to hearing the train pass by my house .	我 已经 习惯 了 家门口 过 火车 的 声音 了 。
+I could swear there's something inside this box .	我能 发誓 这 箱子 里 有 东西 。
+I didn't expect to see you at a place like this .	我 都 没想 过会 在 这里 碰见 你 。
+I didn't pay attention to what they were saying .	他们 说 了 什么 ， 我 并 不 注意 。
+I don't believe you. You're always telling lies .	我 不 相信 你 。 你 总是 说谎 。
+I don't even know if Tom went to college or not .	我 甚至 不 知道 汤姆 有没有 上 过 大学 。
+I find it hard to get up early on cold mornings .	我覺 得 在 寒冷 的 早晨 很難 早起 。
+I know an English teacher who comes from Canada .	我 认识 一个 加拿大 来 的 英语 教师 。
+I often use SSH to access my computers remotely .	我 经常 使用 SSH 来 远程 连接 到 我 的 电脑 。
+I passed the city hall on my way to the station .	我 去 車站 的 路上 路過 了 市政 廳 。
+I want to get a haircut before I go on the trip .	我 想 在 出發 旅行 前 剪個頭 髮 。
+I wonder why I feel so lonely when it gets cold .	我 很 疑惑 为什么 天气 变冷 的 时候 我会 觉得 很 孤单 。
+I would like you to assist me with my gardening .	我 想 請 你 帮 我 整理 花園 。
+I'd like to leave this town and never come back .	我 希望 離開 這個 村子 並且 再也 不要 回來 。
+I'm really sorry about what happened last night .	我 对 昨天晚上 发生 的 事情 感到 非常 的 抱歉 。
+I'm sorry I don't agree with you on that matter .	很 抱歉 那个 问题 我 不 赞成 你 。
+If I had one million yen now, I would buy a car .	如果 我 现在 有 100 万日元 ， 我会 买 辆车 。
+If her temperature goes up, send for the doctor .	如果 她 的 體溫 上升 ,   派 人 去 請 醫生 來 。
+If it's raining tomorrow, we'll go there by car .	如果 明天 下雨 ， 我们 就 坐车去 那儿 。
+In a way you are right, but I still have doubts .	在 某种程度 上 你 是 对 的 ， 但 我 还是 有 疑问 。
+It goes without saying that health is important .	不用说 ， 健康 是 重要 的 。
+It is necessary for you to go there immediately .	你 必需 马上 去 那儿 。
+It is not good for a scientist to get emotional .	對 一個 科學家 來 說 ， 多愁善感 是 不好 的 。
+It is not good for a scientist to get emotional .	對 一個 科學家 來 說 ， 情緒化 是 不好 的 。
+It is said that treasure is buried in this area .	据说 这个 区域 埋着 财宝 。
+It may sound strange, but what she said is true .	聽起 來 或 許有 點怪 ， 但 她 說 的 是 真的 。
+It took me three days to read through this book .	它花 了 我 三天 时间 去 阅读 这 本书 。
+It would be ridiculous to spend all their money .	花光 他們 所有 的 錢會 很 荒謬 。
+Japan imports various raw materials from abroad .	日本 從國外 進口 各種 原料 。
+Mass production reduced the price of many goods .	大量 生產 降低 許多 商品 的 價格 。
+Mastering a foreign language calls for patience .	精通 一種 外語 需要 耐心 。
+Monopoly is a popular game for families to play .	大富翁 是 一個 家庭 玩 的 熱門 遊戲 。
+My daughter graduated from the university today .	我 女兒 今天 大學 畢業 。
+My father insisted on our waiting for the train .	我 的 父親 堅持 要 我們 等 火車 。
+My teeth aren't as white as I'd like them to be .	我 的 牙齿 没有 我 希望 的 那样 白 。
+Paris is one of the largest cities in the world .	巴黎 是 世界 上 最大 的 城市 之一 。
+Patience is sometimes the most effective weapon .	耐心 有时候 是 最 有效 的 武器 。
+Perhaps Tom is too old to do this kind of thing .	也許 Tom 年紀 太大 ， 不 適合 做 這件 事 。
+She furnished the room with beautiful furniture .	她 用 漂亮 的 家具 佈 置 了 房間 。
+She has a strong wish to work as an interpreter .	她 非常 想当 口译 。
+She suggested to me that I call off the meeting .	她 建议 我 取消 会议 。
+She was ashamed of herself for her carelessness .	她 为 自己 的 粗心 感到 羞耻 。
+She will be glad if you go to see her in person .	如果 你 單獨 去 看 她 ,   她 會 很 高興 的 。
+Sir, can we quickly inspect your luggage please ?	先生 ， 我們 可以 檢查 一下 您 的 行李 嗎 ？
+Sir, that CD is available only by special order .	先生 ， 那盘 CD 需要 预定 才 有 。
+Some people like summer, and others like winter .	有人 喜歡 夏天 ，   有人 喜歡 冬天 。
+Tell me about some of the places you've visited .	给 我 说 说 你 去过 的 一些 地方 。
+That Japanese word has no equivalent in English .	那个 日文 词汇 没有 对应 的 英文 。
+The bill passed by a small majority of 10 votes .	法案 以 10 票 微弱 多数 通过 。
+The bus will take you to the center of the city .	巴士 会 把 你们 带到 市中心 。
+The coral reef is the region's prime attraction .	珊瑚礁 是 这个 地区 的 主要 景点 。
+The doctor told her that she should take a rest .	医生 告诉 她 要 静养 。
+The explorers discovered a skeleton in the cave .	探险家 们 在 洞穴 里 发现 了 骸骨 。
+The horse stopped and refused to go any further .	馬 停 了 下來 ， 而且 拒絕 移動 。
+The minimum wage in Okinawa is 642 yen per hour .	冲绳 的 最低 时薪 是 每 小时 642 日元 。
+The money you give them will be put to good use .	你 给 他们 的 钱会 用到 好处 。
+The motel can accommodate as many as 400 guests .	汽车旅馆 可以 接待 多达 400 名 客人 。
+The mother occasionally reread her son's letter .	这位 母亲 偶尔 会 重温 她 的 儿子 的 信件 。
+The problem is that solar energy costs too much .	問題 是 ,   太陽能 太貴 了 。
+The teacher has a great influence on his pupils .	这个 教授 对 他 的 学生 有 很大 的 影响力 。
+The things he says are entirely inconsequential .	他 说 的话 根本 毫无意义 。
+The train for Birmingham leaves from platform 3 .	去 伯明翰 的 火车 从 3 号 站台 出发 。
+The train was delayed because of heavy snowfall .	火车 因 大雪 被 耽搁 了 。
+The twins are indistinguishable from each other .	这 双胞胎 没法 区分 。
+The weather was not only cold, it was also damp .	天气 又 冷 又 湿 。
+The weatherman says there is a storm on the way .	气象学家 说会 有暴风雨 。
+There is a man at the door who wants to see you .	门口 有个 男人 想见 你 。
+There was widespread panic after the earthquake .	地震 後 人們 普遍 覺得 恐慌 。
+There were a lot of excited fans in the stadium .	体育场 里 有 很多 兴奋 的 球迷 。
+These three pretty girls are all nieces of mine .	这 三个 漂亮 的 女孩 都 是 我 的 侄女 。
+They awarded her first prize at the flower show .	他们 在 画展 上 授予 了 她 一等奖 。
+This boat sails through the Strait of Gibraltar .	這艘 船 航行 通過 了 直布羅陀 海峽 。
+This dictionary contains about 40,000 headwords .	这本 字典 包含 了 约 4 万个 词条 。
+This guitar is so expensive that I can't buy it .	这 吉他 太贵 了 ， 我 没法 买下 。
+This is a problem you have to solve by yourself .	这是 一个 你 必须 自己 解决 的 问题 。
+This river is dangerous for children to swim in .	孩子 在 这条 河里 游泳 太 危险 了 。
+Tom and I have known each other for a long time .	湯姆 和 我 相識 很 久 了 。
+Tom began to learn French about three years ago .	汤姆 大约 三年 前 开始 学法语 。
+Tom doesn't have any idea why his wife left him .	湯姆 根本 不 明白 為 甚麼 他 的 妻子 離開 了 他 。
+Tom has been on the wanted list for three years .	汤姆 已经 上 通缉令 三年 了 。
+Tom is looking for someone to take Mary's place .	Tom 正在 找 其他人 代替 Mary 。
+Tom is single and has a three-year-old daughter .	Tom 單身 ， 他 有 個 三歲 的 女兒 。
+Tom is very good at doing things with his hands .	汤姆 善于 动手 做事 。
+Tom isn't the only one here who's a good singer .	汤姆 不是 这里 唯一 的 好 歌手 。
+Tom learned how to do that from his grandfather .	汤姆 从 他 祖父 那里 学会 了 怎么 做 。
+Tom said he wasn't ready, but Mary said she was .	汤姆 说 他 没 准备 好 ， 但 玛丽 说 她 准备 好 了 。
+Tom seems to be a fairly successful businessman .	汤姆 看来 是 个 很 成功 的 商人 。
+Tom still drinks, but not as much as he used to .	汤姆 还是 喝 ， 但 不 像 以前 那么 多 了 。
+Tom suggested that I change the lock on my door .	汤姆 建议 我换 我 的 门锁 。
+Tom told Mary something she didn't want to hear .	湯姆 告訴 了 瑪麗 她 不想 知道 的 事 。
+Tom was a little overweight when he was a child .	湯姆 在 小时候 有點 超重 。
+Translate the following sentences into Japanese .	將 下列 句子 翻譯成 日文 。
+Two months have passed since he left for France .	自从 他 离开 去 法国 ， 已经 有 两个 月 了 。
+We postponed our departure because of the storm .	我們 因為 風暴 推遲 了 起程 。
+We used to go to the movies on Saturday evening .	我们 曾经 总在 星期六 傍晚 去 看 电影 。
+We want to be on the first bus tomorrow morning .	我们 想 乘 明天 早上 第一班 公交车 。
+What's your favorite place to vacation in Japan ?	你 最 喜欢 去 日本 的 什么 地方 度假 ？
+When I was a child, I used to swim in that pond .	当 我 还是 个 孩子 的 时候 ， 我 在 这个 泳池 里游 过泳 。
+When he retired, his son took over the business .	他 退休 的 时候 ， 他 儿子 接手 了 他 的 生意 。
+Where do you suppose you'll spend your vacation ?	你 认为 你 会 到 哪儿 度假 ？
+While you are reading to me, I can do my sewing .	你 读 给 我 听 的 时候 ， 我 就 可以 做 缝纫 了 。
+Who will take care of the dog while we are away ?	當我們 離開 的 時候 ， 誰 來 照顧 狗 ？
+You don't have to tell Tom if you don't want to .	如果 你 不想 ， 那 你 便 没有 这个 必要 去 告诉 汤姆 。
+You have a choice of black tea, coffee, or milk .	你 可以 选择 红茶 ， 咖啡 或 牛奶 。
+You nearly poked me in the eye with your pencil .	你 的 鉛筆 差點 戳 到 我 的 眼睛 了 。
+You should have introduced yourself to the girl .	你 應該 向 那個 女孩 自我 介紹 的 。
+You should set a good example for your children .	你 应该 给 你 的 孩子 们 树立 好榜样 。
+You used to be able to see the church from here .	你 以前 可以 從 這裡 看到 教堂 。
+You will soon get accustomed to your new school .	你 很快 就 会 适应 你 的 新 学校 。
+You'll soon get accustomed to this cold weather .	你 很快 就會 習慣 這種 冷天 氣 。
+You're not old enough to get a driver's license .	你 还 没到 可以 拿 驾驶执照 的 年龄 。
+"Did he write a letter yesterday?" "Yes, he did."	" 他 昨天 寫 了 一封信 嗎 ? "   " 是 的 ,   他 寫 了 。 "
+"Would you like any more?" "No, I've had enough."	" 你 想 再 多 吃點 嗎 ? "   " 不 ， 我 吃 飽 了 。 "
+A barber is a man who shaves and cuts men's hair .	理 髮 師是 為 男人 刮 鬍 子 和 剪 頭 髮 的 人 。
+A doctor told me that eating eggs was bad for me .	一位 医生 告诉 过 我 ， 吃 鸡蛋 对 我 的 健康 有害 。
+A friend of mine asked me to send her a postcard .	我 的 一位 朋友 要求 我寄給 她 一張 明信片 。
+A great number of books are published every year .	每年 都 有 大量 新书 出版 。
+According to the newspaper, he committed suicide .	據 報紙 上 說 ， 他 自殺 了 。
+After you have read it, give the book back to me .	在 你 讀 完 後 ， 把 書 還給 我 。
+All at once she began to shout in a shrill voice .	突然 間 她 開始 用 尖銳 的 聲音 大喊 。
+Are you planning to be at Tom and Mary's wedding ?	你 打算 参加 汤姆 和玛丽 的 婚礼 吗 ？
+As far as I know, your letter is under that book .	據 我 所知 ， 你 的 信 在 那 本書 下面 。
+As soon as she wakes up, we'll turn on the music .	她 一醒 ， 我们 就 放 音乐 。
+Be respectful to your superiors, if you have any .	如果 你 有 上司 的话 ， 学会 尊敬 他 （ 她 ） 。
+Because our kids got married, we are now in-laws .	我們 成 親家 了 ,   因為 我們 的 孩子 們 結婚 了 。
+Collect your thoughts before you begin your work .	工作 之前 先收 好 思绪 。
+Did you check all the items on the shopping list ?	你 检查 购物单 上 所有 的 项目 了 吗 ？
+Do you know whether or not she can speak English ?	你 知道 她 是否 會 講英語 嗎 ？
+Don't forget to pick me up at 6 o'clock tomorrow .	不要 忘记 明天 6 点来 找 我 。
+Don't pay any attention to what your father says .	别 在意 你 父亲 说 的话 。
+Father ran short of money and had to borrow some .	父親 缺錢 ， 所以 他 必須 去 借點 錢 。
+Generally speaking, the climate of Japan is mild .	总体 上 说 ， 日本 的 气候 温和 。
+He and his sisters are currently living in Tokyo .	他 和 他 的 姐妹 们 目前 都 住 在 东京 。
+He cannot afford to buy a car, much less a house .	他 买不起 一辆 汽车 ， 更 不要 说 一套 房子 了 。
+He could not come because of his serious illness .	他 因為生 重病 不能 來 。
+He doesn't know how to write a letter in English .	他 不 知道 如何 用 英语 写信 。
+He failed the exam, but he doesn't care too much .	他 考试 失败 了 ， 但 他 不 太 在意 。
+He graduated from Harvard University with honors .	他光榮 地 從 哈佛 大學 畢業 了 。
+He returned home for the first time in ten years .	他 十年 中 第一次 回家 。
+He said he did not know the man, which was a lie .	他 說 他 不 認識 那個 男人 ， 這是 一個 謊言 。
+He should apologize for being rude to the guests .	他 应该 为 自己 对 客人 的 粗鲁无礼 而 道歉 。
+He would often come to see us when I was a child .	當我 還是 個 孩子 時 ， 他 經常來 看望 我們 。
+His parents are saving for his college education .	他 的 父母 為 他 的 大學 教育 存錢 。
+His quick temper will get him in trouble one day .	他 的 急 脾气 迟早会 惹祸上身 。
+How come you know so much about Japanese history ?	你 為 什麼 知道 這麼 多 的 日本 歷史 ?
+How much money do you have hidden under your bed ?	你 在 你 的 床 下面 藏 了 多少 钱 ？
